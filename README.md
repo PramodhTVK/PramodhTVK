@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on REST APIs<br>🤝 I’m looking for help with graphQL.<br>🌱 I’m currently learning Passport.js.<br>
+🔭 I’m currently working on REST APIs<br>🤝 I’m looking for help with graphQL.<br>🌱 I’m currently learning about JWTs and Authentication methods.<br>
 
 
 # 💻 Tech Stack:
